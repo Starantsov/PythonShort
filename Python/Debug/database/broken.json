@@ -1,0 +1,19 @@
+[
+    {
+      "Brand": "Suzuki",
+      "Model": "GSX-R 600",
+      "ProdYear": 2003,
+      "HorsePowers": 114,
+      "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug\\pictures\\SuzukiGSXR.png",
+      "About": "",
+      "Price": 120000.0,
+      0000RR",
+      "ProdYear": 2014,
+      "HorsePowers": 145,
+      "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug/pictures/default.jpg",
+      "About": "",
+      "Price": 600000.0,
+      "Currency": "руб."
+    }
+  ]
+  

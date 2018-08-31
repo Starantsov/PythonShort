@@ -1,0 +1,72 @@
+[
+  {
+    "Brand": "BMW",
+    "Model": "S1000R",
+    "ProdYear": 2016,
+    "HorsePowers": 150,
+    "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug/pictures/default.jpg",
+    "About": "",
+    "Price": 3500000.0,
+    "Currency": "руб."
+  },
+  {
+    "Brand": "Suzuki",
+    "Model": "GSX-R 600",
+    "ProdYear": 2003,
+    "HorsePowers": 114,
+    "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug\\pictures\\SuzukiGSXR.png",
+    "About": "стоит оригинальный выхлоп Arrow",
+    "Price": 120000.0,
+    "Currency": "руб."
+  },
+  {
+    "Brand": "ИЖ",
+    "Model": "Планета Спорт",
+    "ProdYear": 1960,
+    "HorsePowers": 30,
+    "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug\\pictures\\IZH.jpg",
+    "About": "легендарный ИЖ",
+    "Price": 30000.0,
+    "Currency": "руб."
+  },
+  {
+    "Brand": "StarL",
+    "Model": "Sol",
+    "ProdYear": 1930,
+    "HorsePowers": 13,
+    "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug/pictures/default.jpg",
+    "About": "",
+    "Price": 500.0,
+    "Currency": "руб."
+  },
+  {
+    "Brand": "Ducati",
+    "Model": "StreetFighter",
+    "ProdYear": 2018,
+    "HorsePowers": 167,
+    "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug\\pictures\\ducati.jpg",
+    "About": "",
+    "Price": 1200000.0,
+    "Currency": "руб."
+  },
+  {
+    "Brand": "Honda",
+    "Model": "CBR",
+    "ProdYear": 2015,
+    "HorsePowers": 201,
+    "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug\\pictures\\honda.jpg",
+    "About": "",
+    "Price": 500000.0,
+    "Currency": "руб."
+  },
+  {
+    "Brand": "Yamaha",
+    "Model": "MT",
+    "ProdYear": 2009,
+    "HorsePowers": 100,
+    "PhotoPath": "C:\\Users\\1\\source\\repos\\MotoDataBase\\bin\\Debug\\pictures\\mt09.jpg",
+    "About": "",
+    "Price": 123355.0,
+    "Currency": "руб."
+  }
+]
